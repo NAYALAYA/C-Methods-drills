@@ -1,0 +1,15 @@
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill2/obj/Debug/net10.0/Drill2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill2/obj/Debug/net10.0/Drill2.AssemblyInfoInputs.cache
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill2/obj/Debug/net10.0/Drill2.AssemblyInfo.cs
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill2/obj/Debug/net10.0/Drill2.csproj.CoreCompileInputs.cache
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill2/obj/Debug/net10.0/Drill2.sourcelink.json
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill2/bin/Debug/net10.0/Drill2
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill2/bin/Debug/net10.0/Drill2.deps.json
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill2/bin/Debug/net10.0/Drill2.runtimeconfig.json
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill2/bin/Debug/net10.0/Drill2.dll
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill2/bin/Debug/net10.0/Drill2.pdb
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill2/obj/Debug/net10.0/Drill2.dll
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill2/obj/Debug/net10.0/refint/Drill2.dll
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill2/obj/Debug/net10.0/Drill2.pdb
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill2/obj/Debug/net10.0/Drill2.genruntimeconfig.cache
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill2/obj/Debug/net10.0/ref/Drill2.dll
