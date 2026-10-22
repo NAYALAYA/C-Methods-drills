@@ -4,13 +4,23 @@ class Program
 {
     static bool IsEven(int x)
     {
-        return x % 2;
+        int remainder = x % 2;
+        if (remainder == 0)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
     }
-    static void Main(string[] args)
+    static void Main()
     {
-        int yeeup = IsEven(40);
-
-        Console.WriteLine(yeeup);
+        int x = 40;
+        if (IsEven(x))
+            Console.WriteLine("Yeeup");
+        else
+            Console.WriteLine("Nope");
     }
     
 }
