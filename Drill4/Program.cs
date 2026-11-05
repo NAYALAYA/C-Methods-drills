@@ -2,25 +2,30 @@
 
 class Program
 {
-    static bool IsValidPassword(string p)
+    static bool IsValidPassword()
     {
-        string[] password = {"1899ucbh", "44 55 77 99", "^^7766&&22**88@@"};
+        Console.WriteLine("Enter password:");
+        string password = Console.ReadLine() ?? string.Empty;
         
-        if (password.Length >= 8 && password.Contains(" ") == false)
+        Console.WriteLine("Password is: " + password);
+        
+        if (password.Length < 8)
         {
-            return true;
-        }
-        else
-        {
+            Console.WriteLine("Error: Password must be at least eight characters.");
             return false;
         }
+        if (password.Contains(" "))
+        {
+            Console.WriteLine("Password CAN NOT contain spaces!!");
+            return false;
+        }
+        Console.WriteLine("Is the password more than eight characters? " + (password.Length > 8));
+        Console.WriteLine("Does this password contain spaces? " + password.Contains(" "));
+        return true;
     }
     static void Main(string[] args)
     {
-        string p = password[0];
-        if (IsValidPassword(p))
-            Console.WriteLine("Valid Password!");
-        else
-            Console.WriteLine("Invalid Password");
+        bool result = IsValidPassword();
+        Console.WriteLine("Is password valid? " + result);
     }
 }

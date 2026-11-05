@@ -3,3 +3,13 @@
 /Users/aniyacorivano/Desktop/C#-Methods-drills/Drill4/obj/Debug/net10.0/Drill4.AssemblyInfo.cs
 /Users/aniyacorivano/Desktop/C#-Methods-drills/Drill4/obj/Debug/net10.0/Drill4.csproj.CoreCompileInputs.cache
 /Users/aniyacorivano/Desktop/C#-Methods-drills/Drill4/obj/Debug/net10.0/Drill4.sourcelink.json
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill4/bin/Debug/net10.0/Drill4
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill4/bin/Debug/net10.0/Drill4.deps.json
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill4/bin/Debug/net10.0/Drill4.runtimeconfig.json
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill4/bin/Debug/net10.0/Drill4.dll
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill4/bin/Debug/net10.0/Drill4.pdb
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill4/obj/Debug/net10.0/Drill4.dll
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill4/obj/Debug/net10.0/refint/Drill4.dll
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill4/obj/Debug/net10.0/Drill4.pdb
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill4/obj/Debug/net10.0/Drill4.genruntimeconfig.cache
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill4/obj/Debug/net10.0/ref/Drill4.dll

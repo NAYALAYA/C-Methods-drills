@@ -3,4 +3,7 @@
   <Project Path="Drill2/Drill2.csproj" />
   <Project Path="Drill3/Drill3.csproj" />
   <Project Path="Drill4/Drill4.csproj" />
+  <Project Path="Drill5/Drill5.csproj" />
+  <Project Path="Drill6/Drill6.csproj" />
+  <Project Path="Drill7/Drill7.csproj" />
 </Solution>
