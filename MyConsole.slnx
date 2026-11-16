@@ -6,4 +6,6 @@
   <Project Path="Drill5/Drill5.csproj" />
   <Project Path="Drill6/Drill6.csproj" />
   <Project Path="Drill7/Drill7.csproj" />
+  <Project Path="Drill8/Drill8.csproj" />
+  <Project Path="Drill9/Drill9.csproj" />
 </Solution>
