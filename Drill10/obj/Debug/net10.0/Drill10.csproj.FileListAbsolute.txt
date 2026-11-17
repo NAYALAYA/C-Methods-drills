@@ -1,0 +1,5 @@
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill10/obj/Debug/net10.0/Drill10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill10/obj/Debug/net10.0/Drill10.AssemblyInfoInputs.cache
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill10/obj/Debug/net10.0/Drill10.AssemblyInfo.cs
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill10/obj/Debug/net10.0/Drill10.csproj.CoreCompileInputs.cache
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill10/obj/Debug/net10.0/Drill10.sourcelink.json
