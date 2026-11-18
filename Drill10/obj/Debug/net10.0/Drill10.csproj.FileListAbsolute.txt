@@ -3,3 +3,13 @@
 /Users/aniyacorivano/Desktop/C#-Methods-drills/Drill10/obj/Debug/net10.0/Drill10.AssemblyInfo.cs
 /Users/aniyacorivano/Desktop/C#-Methods-drills/Drill10/obj/Debug/net10.0/Drill10.csproj.CoreCompileInputs.cache
 /Users/aniyacorivano/Desktop/C#-Methods-drills/Drill10/obj/Debug/net10.0/Drill10.sourcelink.json
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill10/bin/Debug/net10.0/Drill10
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill10/bin/Debug/net10.0/Drill10.deps.json
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill10/bin/Debug/net10.0/Drill10.runtimeconfig.json
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill10/bin/Debug/net10.0/Drill10.dll
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill10/bin/Debug/net10.0/Drill10.pdb
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill10/obj/Debug/net10.0/Drill10.dll
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill10/obj/Debug/net10.0/refint/Drill10.dll
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill10/obj/Debug/net10.0/Drill10.pdb
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill10/obj/Debug/net10.0/Drill10.genruntimeconfig.cache
+/Users/aniyacorivano/Desktop/C#-Methods-drills/Drill10/obj/Debug/net10.0/ref/Drill10.dll
